@@ -1,2 +1,2 @@
 # slideshow
-Images Responsive Slideslow with HTML and CSS.
+Images Responsive Slideshow with HTML and CSS.
